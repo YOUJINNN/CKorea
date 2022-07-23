@@ -18,5 +18,26 @@
     <ClCompile Include="_01_print.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="_02_print.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_03_var.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_04_type.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_05_print.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_06_oper.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_07_oper.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_08_oper.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
