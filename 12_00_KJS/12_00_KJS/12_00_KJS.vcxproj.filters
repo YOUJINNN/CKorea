@@ -51,5 +51,142 @@
     <ClCompile Include="switch.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="for1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="for2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="while.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="do ~ while.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="continue.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="String.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayTest.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Fuction.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StorageMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StorageTest.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Rand.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerTest.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayPointer1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayPointer2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="typedef.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Struct.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="animal.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Structinput.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MakeArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ifTest.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="forTest.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="testarray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Recursion.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Recursion2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="hanoi.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RecursionTest.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StackTest.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CQ.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CQTest.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="deque.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="animal.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Myhead.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedList.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stack.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CQ.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="deque.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

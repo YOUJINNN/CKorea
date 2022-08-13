@@ -18,35 +18,34 @@
     <ClCompile Include="Review.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="_01_if.c">
+    <ClCompile Include="_01_Array.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="_02_while.c">
+    <ClCompile Include="_02_Array.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="_03_while.c">
+    <ClCompile Include="_03_Array.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="_04_while.c">
+    <ClCompile Include="_04_Array.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="_05_for.c">
+    <ClCompile Include="_05_Pointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="_06_for.c">
+    <ClCompile Include="_06_Pointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="_07_for.c">
+    <ClCompile Include="_07_Pointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="_08_forfor.c">
+    <ClCompile Include="_08_Pointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="_09_forfor.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="_04_func.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Review.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
